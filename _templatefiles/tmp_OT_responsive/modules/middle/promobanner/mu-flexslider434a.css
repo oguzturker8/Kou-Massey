@@ -1,0 +1,69 @@
+.flex-control-nav {
+    position: absolute;
+    width: 100%;
+    z-index: 3;
+    bottom: 0px;
+    text-align: center;
+}
+
+/* IE7 Hack - Banner Navigation */
+*+html .flex-control-nav {
+		position: relative;
+		width: 40%;
+    z-index: 3;
+		bottom: 50px;
+    text-align: center;
+		float:left;
+}
+
+.flex-control-nav li {
+    margin: 0 6px;
+    display: inline-block;
+    zoom: 1;
+}
+
+/* IE7 Hack - Banner Navigation */
+*+html .flex-control-nav li { 
+		margin: 0 6px;
+		float: left;
+    zoom: 1;
+		width:20px;
+		padding: 2px 0px;
+}
+
+.slides, .flex-control-nav, .flex-direction-nav {
+    padding: 0;
+    list-style: none;
+}
+
+.flex-control-paging li a {
+    width: 11px;
+    height: 11px;
+    display: block;
+    cursor: pointer;
+    text-indent: -9999px; /* ?? */
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -o-border-radius: 20px;
+    border-radius: 20px;
+    box-shadow: inset 0 0 3px rgba(0, 0, 0, 0.3);		
+	background: #FFFFFF;
+	margin: 0 30%;
+}
+
+.flex-control-paging li a:hover {
+	color:#008ee6;
+}
+
+.flex-control-paging li a.flex-active {
+	background: #E3A024;
+    cursor: default;	
+}
+
+@media screen and (min-width: 0px) and (max-width: 419px) {
+
+	.flex-control-nav {
+	    position: relative;
+	}
+
+}

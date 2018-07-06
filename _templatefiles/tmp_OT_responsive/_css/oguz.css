@@ -1,0 +1,99 @@
+a.butonyazisi{
+  padding-left:10px;
+  padding-right:10px;
+  padding-bottom:1px;
+  padding-top:5px;
+  font-size:14px;
+  font-weight:500;
+  color:white;
+  background-color:#34495E;
+  font-family: "Times New Roman", Times, serif;
+}
+ 
+.buton1{
+width: 260px;
+height: 80px;
+position:absolute;
+background-image:url("https://image.ibb.co/hJ3A9o/duyuru.jpg");
+background-size:cover;
+}
+
+.buton2{
+  margin-left:290px;
+ width: 260px;
+height: 80px;  
+position:absolute;
+background-image:url("https://image.ibb.co/jwxekT/ogrenci_bilgi_sistemi.jpg");
+background-size:cover;
+}
+
+.buton3{
+  margin-top:100px;
+  width: 260px;
+height: 80px;
+position:absolute;
+background-image:url("https://image.ibb.co/kWr5QT/e_posta.jpg");
+background-size:cover;
+}
+
+.buton4{
+  margin-top:100px;
+  margin-left:290px;
+  width: 260px;
+height: 80px;
+position:absolute;
+background-image:url("https://image.ibb.co/coTVs8/iconaday.jpg");
+background-size:cover;
+}
+
+.buton5{
+  margin-top:200px;
+  width: 260px;
+height: 80px;
+position:absolute;
+background-image:url("https://image.ibb.co/myrTeo/kutuphane.jpg");
+background-size:cover;
+}
+
+.buton6{
+  margin-top:200px;
+  margin-left:290px;;
+  width: 260px;
+height: 80px;
+position:absolute;
+background-image:url("https://image.ibb.co/ezsZKo/hastane.jpg");
+background-size:cover;
+}
+
+.buton7{
+  margin-top:300px;
+  width: 260px;
+height: 80px;
+position:absolute;
+background-image:url("https://image.ibb.co/g1Zgzo/ebys.jpg");
+background-size:cover;
+}
+
+.buton8{
+  margin-top:300px;
+  margin-left:290px;
+  width: 260px;
+height: 80px;
+position:absolute;
+background-image:url("https://image.ibb.co/jPVbX8/ihale.jpg");
+background-size:cover;
+}
+
+.buton9{
+    position:absolute;
+    width:100%;
+    bottom:0;
+    text-align:center;
+    text-decoration: none;
+}
+
+.buton10{
+  width:520px;
+  height: 320px;
+  position: static;
+}
