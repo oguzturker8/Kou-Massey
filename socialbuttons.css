@@ -1,0 +1,96 @@
+@import url(https://fonts.googleapis.com/css?family=Lato);
+@import url(https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.css);
+
+.social-icons li {
+    vertical-align: top;
+    display: inline;
+    height: 100px;
+}
+.social-icons a {
+    color: white;
+    text-decoration: none;
+}
+.fa-facebook {
+    font-size:20px;
+    padding:10px;
+    padding-left:12px;
+    padding-right:12px;
+    -o-transition:.5s;
+    -ms-transition:.5s;
+    -moz-transition:.5s;
+    -webkit-transition:.5s;
+    transition: .5s;
+    color:white; 
+    margin-left:2px;
+}
+.fa-facebook:hover {
+    background-color:#00244C;
+    border-color:#00244C;
+    border-radius:10px;
+}
+.fa-google-plus {
+    font-size:20px;
+    padding:9px;
+    padding-top:11px;
+    padding-bottom:11px;
+    -o-transition:.5s;
+    -ms-transition:.5s;
+    -moz-transition:.5s;
+    -webkit-transition:.5s;
+    transition:.5s;
+    color:white; 
+    margin-left:2px;
+}
+.fa-google-plus:hover {
+    background-color:#DC493C;
+    border-color:#DC493C;
+    border-radius:10px;
+}
+.fa-instagram {
+    font-size:20px;
+    padding:11px;
+    -o-transition:.5s;
+    -ms-transition:.5s;
+    -moz-transition:.5s;
+    -webkit-transition:.5s;
+    transition: .5s;
+    color:white; 
+    margin-left:2px;
+}
+.fa-instagram:hover {
+    background-color: #ff0050;
+    border-color:#ff0050;
+    border-radius:10px;
+}
+.fa-twitter {
+    font-size:20px;
+    padding:10px;
+    -o-transition:.5s;
+    -ms-transition:.5s;
+    -moz-transition:.5s;
+    -webkit-transition:.5s;
+    transition: .5s;
+    color:white; 
+    margin-left:2px;
+}
+.fa-twitter:hover {
+    background-color:#22afd6;
+    border-color:#22afd6;
+    border-radius:10px;
+}
+.fa-youtube {
+    font-size:20px;
+    padding:10px;
+    -o-transition:.5s;
+    -ms-transition:.5s;
+    -moz-transition:.5s;
+    -webkit-transition:.5s;
+    transition: .5s;
+    color:white; 
+    margin-left:2px;
+}
+.fa-youtube:hover {
+    background-color:#ff0000;
+    border-color:#ff0000;
+    border-radius:10px;
+}

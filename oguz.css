@@ -1,0 +1,642 @@
+a.butonyazisi{
+  padding-left:10px;
+  padding-right:10px;
+  padding-bottom:1px;
+  padding-top:5px;
+  font-size:14px;
+  font-weight:500;
+  color:white;
+  background-color:#34495E;
+  font-family: "Times New Roman", Times, serif;
+  text-decoration: none;
+}
+
+a.butonyazisi:hover{
+	text-decoration:none;
+	color: gray;
+}
+ 
+.buton1{
+width: 260px;
+height: 70px;
+margin-top: 20px; 
+position:absolute;
+background-image:url("https://image.ibb.co/hJ3A9o/duyuru.jpg");
+background-size:cover;
+cursor: pointer;
+}
+
+.buton1:hover{
+	opacity:0.8;
+}
+
+.buton2{
+margin-left:290px; 
+margin-top: 20px;
+width: 260px;
+height: 70px;  
+position:absolute;
+background-image:url("https://image.ibb.co/jwxekT/ogrenci_bilgi_sistemi.jpg");
+background-size:cover;
+cursor: pointer;
+}
+
+.buton2:hover{
+	opacity:0.8;
+}
+
+.buton3{
+margin-top:120px;
+width: 260px;
+height: 70px;
+position:absolute;
+background-image:url("https://image.ibb.co/kWr5QT/e_posta.jpg");
+background-size:cover;
+cursor: pointer;
+}
+
+.buton3:hover{
+	opacity:0.8;
+}
+
+.buton4{
+margin-top:120px;
+margin-left:290px;
+width: 260px;
+height: 70px;
+position:absolute;
+background-image:url("https://image.ibb.co/coTVs8/iconaday.jpg");
+background-size:cover;
+cursor: pointer;
+}
+
+.buton4:hover{
+	opacity:0.8;
+}
+
+.buton5{
+margin-top:220px;
+width: 260px;
+height: 70px;
+position:absolute;
+background-image:url("https://image.ibb.co/myrTeo/kutuphane.jpg");
+background-size:cover;
+cursor: pointer;
+}
+
+.buton5:hover{
+	opacity:0.8;
+}
+
+.buton6{
+margin-top:220px;
+margin-left:290px;;
+width: 260px;
+height: 70px;
+position:absolute;
+background-image:url("https://image.ibb.co/ezsZKo/hastane.jpg");
+background-size:cover;
+cursor: pointer;
+}
+
+.buton6:hover{
+	opacity:0.8;
+}
+
+.buton7{
+margin-top:320px;
+width: 260px;
+height: 70px;
+position:absolute;
+background-image:url("https://image.ibb.co/g1Zgzo/ebys.jpg");
+background-size:cover;
+cursor: pointer;
+}
+
+.buton7:hover{
+	opacity:0.8;
+}
+
+.buton8{
+margin-top:320px;
+margin-left:290px;
+width: 260px;
+height: 70px;
+position:absolute;
+background-image:url("https://image.ibb.co/jPVbX8/ihale.jpg");
+background-size:cover;
+cursor: pointer;
+}
+
+.buton8:hover{
+	opacity:0.8;
+}
+
+.buton9{
+    position:absolute;
+    width:100%;
+    bottom:0;
+    text-align:center;
+}
+
+.buton10{
+  width:520px;
+  height: 480px;
+  position: static;
+}
+
+a.kucuk{
+font-size:12px;
+margin-left:3px;
+}
+
+a.px5{
+margin-left: 5px;
+}
+
+a.px3{
+margin-left:3px;
+}
+
+h1.baslik{
+  font-size:35px;
+  padding-top:10px; 
+  padding-bottom:10px;
+  color: rgb(0, 66, 137);
+  text-align:center;
+  font-family: 'NimbusSanNovCon-med', sans-serif;
+  font-weight: 100;
+
+}
+
+h1.baslik:after{
+  content: "";
+  width: 320px;
+  position: absolute;
+  margin: 0 auto;
+  height: 4px;
+  border-radius: 3px;
+  background: #F9A100;
+  left: 0;
+  right: 0;
+  margin-top:45px;
+}
+
+h1.baslik2{
+  font-size:35px;
+  padding-top:10px; 
+  padding-bottom:10px;
+  color: rgb(0, 66, 137);
+  text-align:left;
+ font-family: 'NimbusSanNovCon-med', sans-serif;
+ font-weight: 100;
+}
+
+h1.baslik2:after{
+  content: "";
+  width: 260px;
+  position: absolute;
+  margin-left:90px;
+  height: 3px;
+  border-radius: 3px;
+  background: #F9A100;
+  left: 0;
+  right: 0;
+  margin-top:45px;
+}
+
+h1.baslik3{
+  font-size:35px;
+  padding-top:10px; 
+  padding-bottom:10px;
+  color: rgb(0, 66, 137);
+  text-align:left;
+  font-family: 'NimbusSanNovCon-med', sans-serif;
+  font-weight: 100;
+}
+
+h1.baslik3:after{
+  content: "";
+  width: 260px;
+  position: absolute;
+  margin-left:789px;
+  height:3px;
+  border-radius: 3px;
+  background: #F9A100;
+  left: 0;
+  right: 0;
+  margin-top:45px;
+}
+
+h1.baslik4{
+  font-size:35px;
+  padding-top:10px; 
+  padding-bottom:10px;
+  color: rgb(0, 66, 137);
+  text-align:center;
+  font-family: 'NimbusSanNovCon-med', sans-serif;
+  font-weight: 100;
+}
+
+h1.baslik4:after{
+  content: "";
+  width: 300px;
+  position: absolute;
+  margin-left:465px;
+  height: 3px;
+  border-radius: 3px;
+  background: #F9A100;
+  left: 0;
+  right: 0;
+  margin-top:45px;
+}
+
+.eventimg:hover{
+	opacity:0.8;
+}
+
+a.bg{
+font-family: 'Concert One', cursive;
+padding-left:5px;
+padding-right:5px;
+}
+
+a.bg:hover{
+	color:#02daf2;
+	text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+	text-decoration:underline;
+}
+
+.slideyazi{
+  bottom: 0px;
+  width:600px;
+  height:53px;
+  top:160px;
+  padding-left:30px;
+  position: absolute;
+  text-transform:uppercase;
+  font-family: 'NimbusSanNovCon-med', sans-serif;
+
+
+}
+
+.slideyazi2{
+  bottom: 0px;
+  width:600px;
+  height:140px;
+  top:225px;
+  padding-left:30px;
+  position: absolute;
+  text-transform:uppercase;
+  font-family: 'NimbusSanNovCon-med', sans-serif;
+
+}
+
+a.ust{
+  font-weight:bold;
+  color:white;
+  font-size:50px;
+  text-align:left;
+  background-color:rgb(48, 47, 46,0.7);
+  text-decoration: none;
+  padding-left:10px;
+  padding-right:10px;
+  border-radius:4px;
+}
+
+a.ust:hover{
+  text-decoration: none;
+  color:white;
+}
+
+a.ust:focus{
+  text-decoration:none;
+  color:white;
+}
+
+a.alt{
+  color:white;
+  margin-top:-2px;
+  font-size:36px;
+  text-align:left;
+  font-weight: 1200;
+  background-color:rgb(35, 35, 35,0.7);
+  padding-left:10px;
+  padding-right:10px;
+  border-radius:4px;
+  text-transform:capitalize;
+}
+
+a.alt:focus{
+  text-decoration:none;
+  color:white;
+}
+
+a.alt:hover{
+  text-decoration: none;
+  color:white;
+}
+
+a.button.resize{
+margin-left:30px;
+top:270px; position:
+absolute; width:150px;
+border-radius:4px;
+text-decoration:none;
+}
+
+
+h1.baslik5{
+  font-size:45px;
+  padding-top:10px; 
+  padding-bottom:10px;
+  color: rgb(0, 66, 137);
+  text-align:left;
+  font-family: 'NimbusSanNovCon-med', sans-serif;
+  font-weight: 100;
+  text-align:center;
+}
+
+h1.baslik5:after{
+   content: "";
+  width: 300px;
+  position: absolute;
+  margin-left:605px;
+  height:3px;
+  border-radius: 3px;
+  background: #F9A100;
+  left: 0;
+  right: 0;
+  margin-top:50px;
+}
+
+h1.personel1{
+  font-size:45px;
+  padding-top:10px; 
+  padding-bottom:10px;
+  color: rgb(0, 66, 137);
+  text-align:left;
+  font-family: 'NimbusSanNovCon-med', sans-serif;
+  font-weight: 100;
+}
+
+h1.personel1:after{
+  content: "";
+  width: 350px;
+  position: absolute;
+  margin-left:405px;
+  height:3px;
+  border-radius: 3px;
+  background: #F9A100;
+  left: 0;
+  right: 0;
+  margin-top:55px;
+}
+
+h1.personel2{
+    font-size:30px;
+  padding-top:10px; 
+  padding-bottom:10px;
+  color: rgb(0, 66, 137);
+  text-align:left;
+  font-family: 'NimbusSanNovCon-med', sans-serif;
+  font-weight: 100;
+}
+
+h1.personel2:after{
+  content: "";
+  width: 950px;
+  position: absolute;
+  margin-left:405px;
+  height:3px;
+  border-radius: 3px;
+  background: #F9A100;
+  left: 0;
+  right: 0;
+  margin-top:45px;
+}
+
+button.bilgi{
+  background-color:#00458F; 
+  color:white;
+  font-size:15px;
+  border-style: none;
+  border-radius:4px;
+  margin-left:5px;
+  margin-right:5px;
+
+}
+
+h1.footerline{
+    content: "";
+  width: 950px;
+  position: absolute;
+  margin-left:290px;
+  height:2px;
+  border-radius: 3px;
+  background: #F9A100;
+  left: 0;
+  right: 0;
+  margin-top:-10px;
+}
+
+
+h1.footerline2{
+    content: "";
+  width: 950px;
+  position: absolute;
+  margin-left:290px;
+  height:2px;
+  border-radius: 3px;
+  background: #F9A100;
+  left: 0;
+  right: 0;
+  margin-top:10px;
+}
+
+img.x50{
+  height:50px;
+  width:50px;
+}
+
+
+.me_short_form_event_case{
+  padding-left:1em;
+}
+
+h1.baslik7{
+
+  font-size:35px;
+  padding-top:10px; 
+  padding-bottom:10px;
+  color: rgb(0, 66, 137);
+  text-align:left;
+  font-family: 'NimbusSanNovCon-med', sans-serif;
+  font-weight: 100;
+}
+
+h1.baslik7:after{
+    content: "";
+  width: 800px;
+  position: absolute;
+  margin-left:35px;
+  height:3px;
+  border-radius: 3px;
+  background: #F9A100;
+  left: 0;
+  right: 0;
+  margin-top:45px;
+}
+
+h2.iletisimbaslik{
+  margin-top:50px;
+  font-size:30px;
+  padding-top:10px; 
+  padding-bottom:10px;
+  color: rgb(0, 66, 137);
+  text-align:left;
+  font-family: 'NimbusSanNovCon-med', sans-serif;
+  font-weight: 100;
+
+}
+
+h2.iletisimsag{
+  font-size:25px;
+  color: rgb(0, 66, 137);
+  text-align:left;
+  font-family: 'NimbusSanNovCon-med', sans-serif;
+  font-weight: 100;
+}
+
+
+.duyurusol{
+  margin-top:10px;
+  height:80px;
+  width: 520px;
+  border-left:6px solid #00448D;
+  border-top:1px solid #00448D;
+  border-bottom:1px solid #00448D;
+  background-color:white;
+  border-radius:6px;
+  float:left;
+  position: relative;
+  margin-bottom:50px;
+}
+
+.duyurusol:hover{
+  background-color:#e5e5e5;
+}
+
+.duyurusag{
+  margin-top:10px;
+  margin-left:15px;
+  height:80px;
+  width: 520px;
+  border-right: 6px solid #00448D;
+  border-top:1px solid #00448D;
+  border-bottom:1px solid #00448D;
+  background-color:white;
+  border-radius:6px;
+  float:left;
+  position: relative;
+  margin-bottom:50px;
+  text-align:right;
+}
+
+.duyurusag:hover{
+  background-color:#e5e5e5;
+}
+
+h6.duyurubaslik{
+ font-size:18px;
+  color: black;
+  font-family: 'NimbusSanNovCon-med', sans-serif;
+  font-weight: 100;
+  margin-left:5px;
+  margin-right:5px;
+}
+
+h6.duyurubaslik:after{
+  content: "";
+  width: 513px;
+  position: absolute;
+  margin-left:0px;
+  height:2px;
+  border-radius: 3px;
+  background: #00448D;
+  left: 0;
+  right: 0;
+  margin-top:27px;
+
+}
+
+a.altsol{
+  font-size:14px;
+  text-align:left;
+  font-family: 'NimbusSanNovCon-med', sans-serif;
+  font-weight:100px;
+  margin-left:5px;
+  color: #000000;
+  border-right:2px solid #00448D  ;
+  padding:2px 5px 2px 5px;
+  text-transform:capitalize;
+}
+
+a.altsol:hover{
+   text-decoration:none;
+   color:black;
+ }
+
+a.altsag{
+  font-size:14px;
+  text-align:right;
+  font-family: 'NimbusSanNovCon-med', sans-serif;
+  font-weight:100px;
+  margin-left:5px;
+  color: black;
+  border-left:2px solid #00448D;
+  padding:2px 5px 2px 5px;
+}
+
+a.altsag:hover{
+   color:black;
+   text-decoration:none;
+}
+
+
+h1.baslik8{
+  margin-left:440px;
+  text-transform:uppercase;
+  font-size:45px;
+  padding-top:10px; 
+  padding-bottom:10px;
+  color: rgb(0, 66, 137);
+  text-align:left;
+  font-family: 'NimbusSanNovCon-med', sans-serif;
+  font-weight: 100;
+}
+
+h1.baslik8:after{
+  content: "";
+  width: 400px;
+  position: absolute;
+  margin-left:370px;
+  height:3px;
+  border-radius: 3px;
+  background: #F9A100;
+  left: 0;
+  right: 0;
+  margin-top:55px;
+}
+
+button.duyuruekle{
+  margin-left: 880px;
+  font-size:18px;
+  border-style:outset;
+  border-radius:4px;
+  background-color:#004289;
+  border-color:#004289;
+  color:white;
+
+
+}
